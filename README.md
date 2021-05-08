@@ -7,7 +7,9 @@ There will eventually be a suggested order of completion, but at this time since
 3. Reverse String
 
 ## How To Use These Exercises
+
 Before you start you should have a few things installed on your machine:
+
 1. NPM. To check if you have NPM installed, type `npm --version` in your terminal. If you get back `Command 'npm' not found, but can be installed with:`, do NOT follow the instructions in the terminal to install with `apt-get`. (This causes permission issues.) Instead, install Node with NVM by following the instructions [here](https://github.com/TheOdinProject/curriculum/blob/master/foundations/installations/installing_node.md).
 2. Jasmine. Jasmine is a testing framework for JavaScript. Type `jasmine -v` to check for it. If you need to install it, type `npm install -g jasmine` to do so.
 3. A copy of this repository. Copies of repositories on your machine are called clones. If you need help cloning, you can learn how [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/duplicating-a-repository)
@@ -23,3 +25,5 @@ Solutions for these exercises can be found in this repo on the 'solutions' branc
 ## A quick note!
 
 The exercise `generator-exercise` is not actually an exercise; it is a script that generates exercises. It was created to help efficiently write these exercises.
+
+Hi!
